@@ -1,10 +1,10 @@
 This is file1 to write hello world...!!!
 
 class MyClass{
-	private void myMethod(String str){
+	private static void myMethod(String str){
 		System.out.printl(str);
 	}
 	public static void main(String args[]){
-		
+		myMethod("welcome to git...!!");
 	}
 }
