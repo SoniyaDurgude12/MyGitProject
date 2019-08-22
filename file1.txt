@@ -1,8 +1,8 @@
 This is file1 to write hello world...!!!
 
 class MyClass{
-	void myMethod(){
-		System.out.printl("Hello world..");
+	private void myMethod(String str){
+		System.out.printl(str);
 	}
 	public static void main(String args[]){
 		
