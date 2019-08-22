@@ -67,5 +67,24 @@ index a94d34e..e4f121c 100644
 
 $ git diff --staged
 
+$ git checkout -- file1.txt
+
+$ git revert 87add13        --- undo but doesn't delete comments
+
+$ git reset a8111fb         --- undo & deletes the comments 
+
+----------------------------------------------------------------------- Branching & Rebasing -------------------------------------------------------------------------------------
+
+$ git branch
+* master
+
+$ git branch bug123
+
+$ git checkout bug123
+Switched to branch 'bug123'
+
+
+
+
 
 
