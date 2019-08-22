@@ -1,7 +1,9 @@
 This is file2..
 
-change 1
+Change --> 1
 
-change 2 // made on remote
+Change --> 2 // made on remote
 
-change 3 //made on remote for pull
+Change --> 3 //made on remote for pull
+
+Change --> 4 // made on remote for conflict (rebase)
